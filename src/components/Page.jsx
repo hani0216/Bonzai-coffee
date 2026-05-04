@@ -9,7 +9,7 @@ export default function Page({ page }) {
 // ============================================================
 
 const RESTAURANT = {
-  name: "Le Jardin Secret",        // Nom du restaurant
+  name: "Bonzai Coffee Lounge",        // Nom du restaurant
   tagline: "Restaurant Gastronomique", // Sous-titre couverture
   location: "Paris",
   since: "1987",

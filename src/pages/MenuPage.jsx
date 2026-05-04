@@ -1,0 +1,1 @@
+fontSize: "clamp(1.8rem, 4.5vw, 3rem)"
